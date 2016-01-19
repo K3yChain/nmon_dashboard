@@ -1,0 +1,25 @@
+---
+check_ids: |+
+  data: {"items":[],"id":"check_ids","updatedAt":1453170512}
+
+pingdom-summary: |+
+  data: {"status":"ok","total":2,"ok":2,"error":0,"up":2,"down":0,"unknown":0,"paused":0,"unconfirmed_down":0,"items":[{"state":"ok","label":"vietnam272nd.com"},{"state":"ok","label":"cloudpassage.com"}],"state":"ok","id":"pingdom-summary","updatedAt":1453170503}
+
+valuation: |+
+  data: {"current":64,"last":96,"id":"valuation","updatedAt":1453170518}
+
+karma: |+
+  data: {"current":124030,"last":57094,"id":"karma","updatedAt":1453170518}
+
+synergy: |+
+  data: {"value":59,"id":"synergy","updatedAt":1453170518}
+
+buzzwords: |+
+  data: {"items":[{"label":"Pivoting","value":3},{"label":"Streamlininess","value":2},{"label":"Enterprise","value":1},{"label":"Paradigm shift","value":2}],"id":"buzzwords","updatedAt":1453170518}
+
+convergence: |+
+  data: {"points":[{"x":9,"y":9},{"x":10,"y":18},{"x":11,"y":21},{"x":12,"y":7},{"x":13,"y":3},{"x":14,"y":42},{"x":15,"y":1},{"x":16,"y":42},{"x":17,"y":40},{"x":18,"y":15}],"id":"convergence","updatedAt":1453170518}
+
+pingdom-uptime-dashboard: |+
+  data: {"current":"99.94","first":"99.94","first_title":"4 Months","second":"99.94","second_title":"YTD","is_up":true,"current_response_time":567,"last_downtime":"never","state":"ok","title":"Dashboard","id":"pingdom-uptime-dashboard","updatedAt":1453170504}
+
